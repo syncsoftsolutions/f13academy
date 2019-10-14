@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/banner-1.jpg
+image: /img/18254516_1225145100917256_379202490_n.jpg
 values:
   - heading: Teamwork
     imageUrl: /img/18254516_1225145100917256_379202490_n.jpg
