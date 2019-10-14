@@ -38,21 +38,7 @@ intro:
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat. 
-main:
-  heading: ' '
-  description: ' '
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/nine-modules.005.jpeg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/nine-modules.006.jpeg
-  image3:
-    alt: Coffee beans
-    image: /img/nine-modules.007.jpeg
-  image4:
-    alt: Coffee beans
-    image: /img/nine-modules.008.jpeg
+
 testimonials:
   - author: Anonymous
     quote: >-
