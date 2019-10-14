@@ -50,6 +50,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/nine-modules.007.jpeg
+  image4:
+    alt: Coffee beans
+    image: /img/nine-modules.008.jpeg
 testimonials:
   - author: Anonymous
     quote: >-
