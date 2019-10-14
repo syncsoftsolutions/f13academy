@@ -1,5 +1,5 @@
 ---
-title: ' '
+title: 'F13Academy'
 subtitle: ' '
 image: /img/banner-1.jpg
 blurb:
