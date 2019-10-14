@@ -7,7 +7,7 @@ contact_entries:
       29B Rosas Street, Pamplona Tres
       Las Piñas, Nueva Ecija, Philippines
   - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 5PM We’re closed on Sundays'
+    text: 'We are always open.'
 ---
 We’d love to get in touch with you and hear your ideas and
 questions.
