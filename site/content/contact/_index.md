@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/71961816_100795444670873_7618647812686741504_n.png
+# logo: /img/71961816_100795444670873_7618647812686741504_n.png
 contact_entries:
   - heading: Location
     text: |-
