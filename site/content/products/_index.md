@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Products
 image: /img/18217357_1225144414250658_1378574552_n.jpg
 heading: What we offer
 description: >-
@@ -63,7 +63,7 @@ testimonials:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat. 
-full_image: /img/18217357_1225144414250658_1378574552_n.jpg
+full_image: ''
 pricing:
   heading: ' '
   description: ' '
