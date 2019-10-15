@@ -1,7 +1,7 @@
 ---
 title: 'F13Academy'
 subtitle: ' '
-image: /img/banner-1.jpg
+image: /img/boy.jpg
 blurb:
   heading: Why F13Academy?
   text: >-
